@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.github.just_ricky.customenchants.api"},{"l":"com.github.just_ricky.customenchants.api.events"},{"l":"com.github.just_ricky.customenchants.api.option"}];updateSearchResults();
